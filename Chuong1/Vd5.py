@@ -1,0 +1,7 @@
+#Ví dụ chuyển tuple sang list
+aTuple = ('123', 'abc', 'xyz', 'def')
+
+aList = list(aTuple)
+
+print("Các phần tử của tuple:", aTuple)
+print("List là:", aList)
